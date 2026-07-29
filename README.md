@@ -48,8 +48,8 @@ Install from a .dmg
 
 - Drag ClipboardUltra.app into the Applications folder.
 - Open Applications and launch **ClipboardUltra**.
-
 <img width="67" height="67" alt="1024" src="https://github.com/user-attachments/assets/414d0341-f5f2-4046-a935-e8c638b3c966" />
+
 
 PS: If macOS shows a warning because the app was downloaded from the internet, open System Settings > Privacy & Security and allow the app to run.
 Grant requested permissions if features such as shortcuts or automation require them (not mandatory). 
