@@ -8,13 +8,9 @@ ClipboardUltra is a macOS menu bar clipboard manager designed to make copied con
 - macOS 14 Sonoma or later
 - Apple Silicon or Intel Mac
 
-
 <a href="https://github.com/LeptaTV/ClipboardUltra/releases/download/ClipboardUltra_versions/ClipboardUltra.dmg" target="_blank" rel="noopener noreferrer">
   <img width="200" height="67" alt="image" src="https://github.com/user-attachments/assets/945a4117-7e08-43e1-9e92-8643e537893f" />
 </a>
-
-<img width="67" height="67" alt="1024" src="https://github.com/user-attachments/assets/414d0341-f5f2-4046-a935-e8c638b3c966" />
-
 
 # Features
 - Menu bar app for quick access.
@@ -52,6 +48,8 @@ Install from a .dmg
 
 - Drag ClipboardUltra.app into the Applications folder.
 - Open Applications and launch **ClipboardUltra**.
+
+<img width="67" height="67" alt="1024" src="https://github.com/user-attachments/assets/414d0341-f5f2-4046-a935-e8c638b3c966" />
 
 PS: If macOS shows a warning because the app was downloaded from the internet, open System Settings > Privacy & Security and allow the app to run.
 Grant requested permissions if features such as shortcuts or automation require them (not mandatory). 
