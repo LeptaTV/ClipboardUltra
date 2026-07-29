@@ -11,7 +11,7 @@ ClipboardUltra is a macOS menu bar clipboard manager designed to make copied con
 
 <a href="https://github.com/LeptaTV/ClipboardUltra/releases/download/ClipboardUltra_versions/ClipboardUltra.dmg" target="_blank" rel="noopener noreferrer">
   <img width="200" height="67" alt="image" src="https://github.com/user-attachments/assets/945a4117-7e08-43e1-9e92-8643e537893f" />
-</a>                  <img width="67" height="67" alt="1024" src="https://github.com/user-attachments/assets/414d0341-f5f2-4046-a935-e8c638b3c966" />
+</a><img width="67" height="67" alt="1024" src="https://github.com/user-attachments/assets/414d0341-f5f2-4046-a935-e8c638b3c966" />
 
 
 # Features
