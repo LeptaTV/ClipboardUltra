@@ -6,6 +6,10 @@ ClipboardUltra is a macOS menu bar clipboard manager designed to make copied con
 - macOS 14 Sonoma or later
 - Apple Silicon or Intel Mac
 
+<a href="https://www.google.com/" target="_blank" rel="noopener noreferrer">
+  <img width="388" height="131" alt="image" src="https://github.com/user-attachments/assets/945a4117-7e08-43e1-9e92-8643e537893f" />
+</a>
+
 <img width="1920" height="30" alt="image" src="https://github.com/user-attachments/assets/1288d39a-9ad2-491a-a574-40a9adfcab13" />
 
 
