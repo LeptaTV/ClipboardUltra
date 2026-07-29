@@ -15,9 +15,6 @@ ClipboardUltra is a macOS menu bar clipboard manager designed to make copied con
 - Category filters such as text, numbers, URLs, emails, images, and pinned items.
 - Image preview for copied images.
 - Dark mode toggle.
-
-<img width="408" height="512" alt="image" src="https://github.com/user-attachments/assets/3424cefa-1b2a-42da-ab0d-23cd356a993f" />
-
 - Global shortcut to open the app quickly.
 - Simple settings panel.
 
