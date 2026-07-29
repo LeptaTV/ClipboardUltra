@@ -35,6 +35,10 @@ ClipboardUltra is a macOS menu bar clipboard manager designed to make copied con
 Install from a .dmg
 - Download the latest .dmg release from the GitHub Releases page.
 - Open the .dmg file.
+
+<img width="846" height="446" alt="image" src="https://github.com/user-attachments/assets/288c7ad8-f4f9-446d-8f3b-e7fa09fdad95" />
+
+
 - Drag ClipboardUltra.app into the Applications folder.
 - Open Applications and launch **ClipboardUltra**.
 
