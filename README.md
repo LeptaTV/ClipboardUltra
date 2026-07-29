@@ -1,6 +1,6 @@
 # ClipboardUltra
 
-<img width="512" height="60" alt="60" src="https://github.com/user-attachments/assets/8d8c3d31-d594-48e6-86a4-30f84ab05abb" />
+<img width="60" height="60" alt="60" src="https://github.com/user-attachments/assets/8d8c3d31-d594-48e6-86a4-30f84ab05abb" />
 
 
 ClipboardUltra is a macOS menu bar clipboard manager designed to make copied content easier to find, organize, and reuse. The app stores clipboard history, offers search and category filters, supports pinned items, and can be opened instantly with a keyboard shortcut.
